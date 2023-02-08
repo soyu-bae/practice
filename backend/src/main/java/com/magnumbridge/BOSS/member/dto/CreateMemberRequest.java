@@ -6,4 +6,5 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 public class CreateMemberRequest {
+    private Sting name;
 }
